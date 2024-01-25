@@ -1,2 +1,2 @@
-# FiveM-Dev-Shorts-3
-A FiveM Dev Shorts YouTube programozós sorozatomban írt programok egyike.
+# Parancs létrehozása
+A FiveM Dev Shorts sorozatom második részének tartalma.
